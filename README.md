@@ -40,7 +40,3 @@ python3 ouo_bypass.py https://ouo.io/on5by https://ouo.press/xxxx
 - Ensure `.venv/`, `__pycache__/`, and `.DS_Store` are ignored.
 - Verify direct mode: `python3 ouo_bypass.py <url>`.
 - Verify bot mode: `python3 main.py` (with a valid token in `.env`).
-# ouo-bypass
-# ouo-bypass
-# ouo-bypass
-# ouo-link-bypass
