@@ -33,10 +33,3 @@ You can run `ouo_bypass.py` directly with one or more URLs:
 python3 ouo_bypass.py https://ouo.io/on5by
 python3 ouo_bypass.py https://ouo.io/on5by https://ouo.press/xxxx
 ```
-
-## Pre-Publish Checklist
-
-- Keep `.env` out of git and only commit `.env.example`.
-- Ensure `.venv/`, `__pycache__/`, and `.DS_Store` are ignored.
-- Verify direct mode: `python3 ouo_bypass.py <url>`.
-- Verify bot mode: `python3 main.py` (with a valid token in `.env`).
